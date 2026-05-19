@@ -7,8 +7,11 @@
 
 ## Demo Video
 
-Watch the project demo here:  
-https://youtu.be/rNGbi9OeANU?si=NVREzw0GbWTXKD8e
+<p align="center">
+  <a href="https://youtu.be/rNGbi9OeANU?si=NVREzw0GbWTXKD8e">
+    <img src="https://img.youtube.com/vi/rNGbi9OeANU/0.jpg" alt="T.A.C.T Demo Video" width="700">
+  </a>
+</p>
 
 ## Project Overview
 
